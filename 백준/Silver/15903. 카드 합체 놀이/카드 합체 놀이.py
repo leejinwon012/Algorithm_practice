@@ -15,4 +15,3 @@ for _ in range(m):
     heapq.heappush(status, small1 + small2)
 
 print(sum(status))
-
