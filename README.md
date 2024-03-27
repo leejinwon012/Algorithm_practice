@@ -1,2 +1,2 @@
-# programmers / Baekjoon / SWEA Algorithm practice
+# programmers / Baekjoon / SWEA Algorithm, SQL practice
 2024.02.20 ~ing
