@@ -1,5 +1,2 @@
 def solution(arr):
-    answer = 0
-    for i in arr:
-        answer += i
-    return answer / len(arr)
+    return sum(arr) / len(arr)  # 리스트안에 값은 sum 사용 가능
